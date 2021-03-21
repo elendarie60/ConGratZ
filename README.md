@@ -5,6 +5,6 @@ Să se realizeze o aplicație Web prin intermediul căreia să se poată crea fe
 
 # Membrii:
 
-Lupu Livia
-Darie Elena
-Avramescu Andrei-Cosmin
+  Lupu Livia
+  Darie Elena
+  Avramescu Andrei-Cosmin
